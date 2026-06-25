@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# TouchDesigner incremental saves / backups / locks
+*.[0-9].toe
+*.[0-9][0-9].toe
+*.toe.*
+Backup/
+.local/
+*.lock
+
+# OS
+Thumbs.db
+.DS_Store
